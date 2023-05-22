@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Harry Potter",
+    "dateOfBirth": "19800731",
+    "description": "Young wizard and famous adversary of Lord Voldemort.",
+    "wand": "Holly",
+    "parents": {
+      "father": "James Potter",
+      "mother": "Lily Potter"
+    }
+  },
+  {
+    "name": "Hermione Granger",
+    "dateOfBirth": "19790919",
+    "description": "Clever Muggle-born witch, member of the Gryffindor house.",
+    "wand": "Vine",
+    "parents": {
+      "father": "N/A",
+      "mother": "N/A"
+    }
+  },
+  {
+    "name": "Ron Weasley",
+    "dateOfBirth": "19800301",
+    "description": "Red-haired wizard from the Weasley family, Harry's loyal friend.",
+    "wand": "Willow",
+    "parents": {
+      "father": "Arthur Weasley",
+      "mother": "Molly Weasley"
+    }
+  },
+  {
+    "name": "Helga Hufflepuff",
+    "dateOfBirth": "19261219",
+    "description": "One of the founders of Hogwarts and the Hufflepuff house.",
+    "wand": "Beech",
+    "parents": {
+      "father": "Mr. Hufflepuff",
+      "mother": "Mrs. Hufflepuff"
+    }
+  }
+]
